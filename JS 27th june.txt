@@ -1,0 +1,5 @@
+https://jsfiddle.net/sahil0903/gr31v49f/3/   ****print day & time  
+https://jsfiddle.net/sahil0903/aw9rvzj3/7/   ****check leap year 
+https://jsfiddle.net/sahil0903/qy7zaL86/7/   *****guess random number
+https://jsfiddle.net/sahil0903/da1hw3jc/13/   ***daysleftin christmas
+https://jsfiddle.net/sahil0903/ygr7czf0/5/    *** capital letter
